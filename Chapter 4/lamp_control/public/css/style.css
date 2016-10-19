@@ -1,0 +1,16 @@
+h3 {
+  text-align: center;
+}
+
+body {
+  font-size: 20px;
+}
+
+text-center {
+  text-align: center;
+}
+
+.row {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
