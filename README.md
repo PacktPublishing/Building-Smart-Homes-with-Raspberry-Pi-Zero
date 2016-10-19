@@ -1,4 +1,4 @@
-# Building-Smart-Homes-with-Raspberry-Pi-Zero
+# Building Smart Homes with Raspberry Pi Zero
 
 
 This is the code repository for[Building Smart Homes with Raspberry Pi Zero](https://www.packtpub.com/hardware-and-creative/building-smart-homes-raspberry-pi-zero?utm_source=github&utm_medium=repository&utm_content=9781786466952),published by Packt.It contains all the supporting
