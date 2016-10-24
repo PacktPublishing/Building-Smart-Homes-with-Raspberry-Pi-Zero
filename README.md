@@ -29,7 +29,7 @@ console.warn('Failed to initialize sensor');
 }
 ```
 ## Note:
-Chapter 1, 2 and 3 do not have code files
+Chapter 01 do not have code files.
 
 
 ## Related products:
