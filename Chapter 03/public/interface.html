@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <script src="js/script.js"></script>
+  <link rel="stylesheet" href="css/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+
+<div id="container">
+
+  <h3>Thermostat Control</h3>
+
+  <div class='row'>
+
+    <div class='col-md-4'></div>
+    <div class='col-md-4 text-center'>
+      Current temperature value:
+      <span id='temperature'></span> C</div>
+    <div class='col-md-4'></div>
+
+  </div>
+
+  <div class='row'>
+
+    <div class='col-md-4'></div>
+    <div class='col-md-4 text-center'>
+      Current thermostat value:
+      <span id='thermostat'></span> C</div>
+    <div class='col-md-4'></div>
+
+  </div>
+
+  <div class='row'>
+
+    <div class='col-md-4'></div>
+    <div class='col-md-4'>
+      <input type="text" class="form-control" id="thermostatValue"></div>
+    <div class='col-md-4'></div>
+
+  </div>
+
+  <div class='row'>
+
+    <div class='col-md-4'></div>
+    <div class='col-md-4'>
+      <button id='set-thermostat' class='btn btn-block btn-primary'>
+        Set Thermostat</button></div>
+    <div class='col-md-4'></div>
+
+  </div>
+
+</div>
+
+</body>
+</html>
