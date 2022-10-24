@@ -36,3 +36,7 @@ Chapter 01 do not have code files.
 * [Raspberry Pi for Secret Agents](https://www.packtpub.com/hardware-and-creative/raspberry-pi-secret-agents?utm_source=github&utm_medium=repository&utm_content=9781849695787)
 * [Raspberry Pi Cookbook for Python Programmers](https://www.packtpub.com/hardware-and-creative/raspberry-pi-cookbook-python-programmers?utm_source=github&utm_medium=repository&utm_content=9781849696623)
 * [Raspberry Pi Home Automation with Arduino](https://www.packtpub.com/hardware-and-creative/raspberry-pi-home-automation-arduino?utm_source=github&utm_medium=repository&utm_content=9781849695862)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781786466952">https://packt.link/free-ebook/9781786466952 </a> </p>
